@@ -1,7 +1,7 @@
-import { useState } from "react"
+
 
 function MyName() {
-    const [name] = useState("Nguyễn Văn A")
+    const name = "Nguyễn Văn A"
 
     return (
         <>

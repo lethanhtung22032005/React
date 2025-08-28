@@ -4,6 +4,8 @@ import ChangeColor from "./Ss17ex3"
 import Toggle from "./Ss17ex4"
 import Form from "./Ss17ex5"
 import CounText from "./Ss17ex6"
+import form from "./test"
+
 
 
 function App() {
@@ -14,7 +16,8 @@ function App() {
       {/* <ChangeColor></ChangeColor> */}
       {/* <Toggle></Toggle> */}
       {/* <Form></Form> */}
-      <CounText></CounText>
+      {/* <CounText></CounText> */}
+      <form></form>
     </div>
   )
 }
