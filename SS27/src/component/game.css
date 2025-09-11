@@ -1,0 +1,53 @@
+.game {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+.board {
+  display: grid;
+  justify-content: center;
+  gap: 2px;
+  margin: 15px auto;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  border: 1px solid #555;
+  background: #ccc;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.cell.revealed {
+  background: #eee;
+  cursor: default;
+}
+
+.status {
+  font-size: 20px;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.status.lose {
+  color: red;
+}
+
+.status.win {
+  color: green;
+}
+
+.reset {
+  padding: 8px 16px;
+  background: #0078d7;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.reset:hover {
+  background: #005fa3;
+}
