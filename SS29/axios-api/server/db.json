@@ -1,0 +1,22 @@
+{
+    "student": [
+        {
+            "id": 1,
+            "student_name": "Nguyen Van A",
+            "email": "a@example.com",
+            "address": "Ha Noi",
+            "phone": "0123456789",
+            "status": true,
+            "created_at": "2025-09-15"
+        },
+        {
+            "id": 2,
+            "student_name": "Tran Thi B",
+            "email": "b@example.com",
+            "address": "Da Nang",
+            "phone": "0987654321",
+            "status": false,
+            "created_at": "2025-09-15"
+        }
+    ]
+}

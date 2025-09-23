@@ -1,0 +1,22 @@
+{
+    "student":[
+        {
+            "id":1,
+            "name":"Phương",
+            "email":"phuong@gmail.com",
+            "course":"Thanh Hóa",
+            "phone" :"0123456789",
+            "status":true,
+            "created_at":"16/09/2025"
+        },
+        {
+            "id":2,
+            "name":"Huyền",
+            "email":"huyene@gmail.com",
+            "course":"Hà Nội",
+            "phone" :"0987654321",
+            "status":false,
+            "created_at":"16/09/2025"
+        }
+    ]
+}
