@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Hong Nhung ",
+      "age": 19,
+      "lop": "12"
+    },
+    {
+      "id": "ce2b",
+      "name": "Pham Thi Hong Nhung",
+      "age": 19,
+      "grade": "12A"
+    },
+    {
+      "id": "3966",
+      "name": "Hoc dot qua huhuhu",
+      "age": 16,
+      "grade": "12A5"
+    }
+  ]
+}
