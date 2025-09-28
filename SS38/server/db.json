@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Tôi là nhà vua free fire",
+      "author": "Văn Ánh nè",
+      "year": 2025,
+      "category": 36
+    },
+    {
+      "id": 3,
+      "title": "Hướng dẫn múa flo từ cơ bản đến nâng cao ",
+      "author": "Hành Lá",
+      "year": 2025,
+      "category": 36
+    },
+    {
+      "id": 4,
+      "title": "Cách leo chiến thần hiệu quả ",
+      "author": "nhà vua Hành Lá",
+      "year": 2025,
+      "category": 36
+    },
+    {
+      "title": "Hướng dẫn kéo tâm OB20",
+      "author": "bé Ánh Gaming",
+      "year": 2025,
+      "category": "24",
+      "id": 5
+    }
+  ]
+}
