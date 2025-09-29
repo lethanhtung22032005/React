@@ -1,0 +1,33 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Iphone15",
+            "image":""
+        },
+         {
+            "id":1,
+            "name":"Iphone16",
+            "image":""
+        }
+    ],
+    
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+
+}
